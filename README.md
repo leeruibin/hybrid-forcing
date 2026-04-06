@@ -5,7 +5,7 @@
 
 <p class="subtitle">
 <a href="" target="_blank">Ruibin Li</a><sup>1,2</sup>, <a href="" target="_blank">Tao Yang</a><sup>1</sup>, <a href="" target="_blank">Fangzhou Ai</a><sup>1</sup>, <a href="" target="_blank">Tianhe Wu</a><sup>3</sup>, <a href="" target="_blank">Shilei Wen</a><sup>1</sup>, <a href="" target="_blank">Bingyue Peng</a><sup>1</sup>, <a href="" target="_blank">Lei Zhang</a><sup>2</sup><br>
-<sup>1</sup>ByteDance &nbsp; <sup>2</sup><a href="" target="_blank">The Hong Kong Polytechnic University</a> &nbsp; <sup>3</sup><a href="" target="_blank">City University of Hong Kong</a>
+<sup>1</sup>ByteDance &nbsp; <sup>2</sup>The Hong Kong Polytechnic University</a> &nbsp; <sup>3</sup>City University of Hong Kong</a>
 </p>
 
 </div>
@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/9c9076ce-a29c-40d5-b94f-c855f8619808
 
 
 ## 🔥 News
-- **2026.xxx** : Work in progress, adapt hybrid video-audio joint streaming generation baseline on LTX2/2.3.
-- **2026.xxx** : The [paper](xxx), [project page](https://leeruibin.github.io/HybridForcing.github.io/), and code are released.
+- **2026.4.6** : Work in progress, adapt hybrid video-audio joint streaming generation baseline on LTX2/2.3.
+- **2026.4.6** : The [paper](xxx), [project page](https://leeruibin.github.io/HybridForcing.github.io/), and code are released.
 
 
 ## Quick Start

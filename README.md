@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/8fe63dae-e303-4ec0-83a4-b53c46f49c09
 
 
 ## 🔥 News
-- **2026.4.6** : Work in progress, adapt hybrid video-audio joint streaming generation base on LTX2/2.3.
+- **2026.4.6** : Work in progress, adapt hybrid video-audio joint streaming generation based on LTX2/2.3.
 - **2026.4.6** : The [paper](xxx), [project page](https://leeruibin.github.io/HybridForcing.github.io/), and code are released.
 
 

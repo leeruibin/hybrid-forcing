@@ -18,14 +18,14 @@
 -----
 
 
-Hybrid Forcing consistently achieves state-of-the-art performance, and thanks to the hybrid attention design the our model achieves real-time video generation at **29.5 FPS** on a single NVIDIA H100 GPU without quantization or model compression.
+Hybrid Forcing consistently achieves state-of-the-art performance, and thanks to the hybrid attention design the our model achieves real-time video generation at **29.5 FPS (832x480)** on a single NVIDIA H100 GPU without quantization or model compression.
 
 
 -----
 
 
 
-https://github.com/user-attachments/assets/9c9076ce-a29c-40d5-b94f-c855f8619808
+https://github.com/user-attachments/assets/8fe63dae-e303-4ec0-83a4-b53c46f49c09
 
 
 ## 🔥 News

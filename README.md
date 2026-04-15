@@ -10,7 +10,7 @@
 
 </div>
   </p>
-  <h3 align="center"><a href="xxx">Paper</a> | <a href="https://leeruibin.github.io/HybridForcing.github.io/">Website</a> | <a href="xxx">Models</a>  </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2604.10103">Paper</a> | <a href="https://leeruibin.github.io/HybridForcing.github.io/">Website</a> | <a href="xxx">Models</a>  </h3>
 </p>
 
 
@@ -101,7 +101,7 @@ If you find the method useful, please cite
 @article{li2026long,
   title={Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation},
   author={Li, Ruibin and Yang, tao and Ai, Fangzhou and Wu, Tianhe and Wen, shilei and Peng, Bingyue and Zhang, Lei},
-  journal={arXiv preprint arXiv:xxx},
+  journal={arXiv preprint arXiv:2604.10103},
   year={2026}
 }
 ```

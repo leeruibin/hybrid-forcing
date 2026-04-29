@@ -4,8 +4,8 @@
 ### Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation
 
 <p class="subtitle">
-<a href="" target="_blank">Ruibin Li</a><sup>1,2</sup>, <a href="" target="_blank">Tao Yang</a><sup>1</sup>, <a href="" target="_blank">Fangzhou Ai</a><sup>1</sup>, <a href="" target="_blank">Tianhe Wu</a><sup>3</sup>, <a href="" target="_blank">Shilei Wen</a><sup>1</sup>, <a href="" target="_blank">Bingyue Peng</a><sup>1</sup>, <a href="" target="_blank">Lei Zhang</a><sup>2</sup><br>
-<sup>1</sup>ByteDance &nbsp; <sup>2</sup>The Hong Kong Polytechnic University</a> &nbsp; <sup>3</sup>City University of Hong Kong</a>
+<a href="" target="_blank">Ruibin Li</a><sup>1,2</sup>, <a href="" target="_blank">Tao Yang</a><sup>2</sup>, <a href="" target="_blank">Fangzhou Ai</a><sup>2</sup>, <a href="" target="_blank">Tianhe Wu</a><sup>3</sup>, <a href="" target="_blank">Shilei Wen</a><sup>2</sup>, <a href="" target="_blank">Bingyue Peng</a><sup>2</sup>, <a href="" target="_blank">Lei Zhang</a><sup>1</sup><br>
+<sup>1</sup>The Hong Kong Polytechnic University</a> &nbsp; <sup>2</sup>ByteDance &nbsp; <sup>3</sup>City University of Hong Kong</a>
 </p>
 
 </div>
